@@ -13,8 +13,8 @@ An automated subtitle downloader for movies and TV shows that integrates with Wi
 
 1. Download the latest .exe from [releases page](https://github.com/Gabriel-sy/SubtitlesDownloader/releases)
 2. Execute the .exe and install the program
-3. When finished, click the desktop shorcut that was created
-4. Enter your OpenSubtitles.com credentials, select the language and click the login button, after logging in, it will be ready to use
+3. When finished, click the desktop shortcut that was created
+4. Enter your OpenSubtitles.com credentials, select the language and click the login button, after logging in it will be ready to use
 
 ## How to Use
 
