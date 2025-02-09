@@ -1,3 +1,5 @@
+![GitHub Downloads](https://img.shields.io/github/downloads/Gabriel-sy/SubtitlesDownloader/total?style=for-the-badge&color=blue&label=Downloads&logo=github&logoColor=white)
+
 # Subtitles Downloader
 ![example img](example.gif)
 
