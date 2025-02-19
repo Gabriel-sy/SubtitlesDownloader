@@ -1,7 +1,5 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/Gabriel-sy/SubtitlesDownloader/total?style=for-the-badge&color=blue&label=Downloads&logo=github&logoColor=white)
-### In progress
-- Auto-sync: Automatically synchronize subtitles with video
-- AI Translation: Convert subtitles between multiple languages
+
 # Subtitles Downloader
 ![example img](example.gif)
 
